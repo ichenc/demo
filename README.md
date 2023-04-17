@@ -20,3 +20,6 @@
 
 
 - **emoji：[表情](https://ichen.ink/demo/emoji.md)**
+
+
+- **搜索导航：[搜](https://ichen.ink/demo/sousuo.html)**
