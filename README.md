@@ -26,3 +26,6 @@
 
 
 - **搜索导航：[搜](https://ichen.ink/demo/sousuo.html)**
+
+
+- **搜索导航2：[搜2](https://ichen.ink/demo/sou2.html)**
