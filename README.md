@@ -4,6 +4,9 @@
 - **主页：[主页](https://ichen.ink/demo/zy.html)**
 
 
+- **主页2：[主页2](https://ichen.ink/demo/zy2.html)**
+
+
 - **在线生成淘宝评论：[生成评论](https://ichen.ink/demo/tbpl.html)**
 
 
