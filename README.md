@@ -29,3 +29,6 @@
 
 
 - **搜索导航2：[搜2](https://ichen.ink/demo/sou2.html)**
+
+
+- **影视导航：[搜2](https://ichen.ink/demo/look.html)**
